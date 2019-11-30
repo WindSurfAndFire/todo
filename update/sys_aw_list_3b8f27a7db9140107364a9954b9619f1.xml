@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Todos">bb8f27a7db9140107364a9954b9619e9</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition table="x_431086_todo_todo">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-30 04:42:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3b8f27a7db9140107364a9954b9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="todo" source="x_431086_todo">a80e6b2bdb5140107364a9954b961928</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">a80e6b2bdb5140107364a9954b961928</sys_scope>
+        <sys_update_name>sys_aw_list_3b8f27a7db9140107364a9954b9619f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-30 04:42:20</sys_updated_on>
+        <table>x_431086_todo_todo</table>
+        <title>Closed</title>
+        <workspace display_value="todo">628faf67db9140107364a9954b9619d0</workspace>
+    </sys_aw_list>
+</record_update>
