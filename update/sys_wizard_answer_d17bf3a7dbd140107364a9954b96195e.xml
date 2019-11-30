@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Milestone</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Milestone</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">9b4395a7db1100107364a9954b9619dc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-30 05:34:19</sys_created_on>
+        <sys_id>d17bf3a7dbd140107364a9954b96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Milestone</sys_name>
+        <sys_package display_value="todo" source="x_431086_todo">a80e6b2bdb5140107364a9954b961928</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="todo">a80e6b2bdb5140107364a9954b961928</sys_scope>
+        <sys_update_name>sys_wizard_answer_d17bf3a7dbd140107364a9954b96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-30 05:34:19</sys_updated_on>
+        <table/>
+        <target_url>x_431086_todo_milestone.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
