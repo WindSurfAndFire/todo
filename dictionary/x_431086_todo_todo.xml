@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Todo" max_length="40" name="x_431086_todo_todo" text_index="true" type="collection"/>
+    <element extends="task" label="Todo" max_length="40" name="x_431086_todo_todo" text_index="true" type="collection">
+        <element default="white" label="Color" max_length="40" name="color" type="color"/>
+    </element>
 </database>
