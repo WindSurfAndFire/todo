@@ -4,7 +4,9 @@
         <application display_value="Todo">5b30f32bdb9140107364a9954b9619f5</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_431086_todo_todo">sys_class_name=x_431086_todo_todo^EQ<item display_value="Todo" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_431086_todo_todo"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -24,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9330372bdb9140107364a9954b9619bf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="todo" source="x_431086_todo">a80e6b2bdb5140107364a9954b961928</sys_package>
@@ -32,7 +34,7 @@
         <sys_scope display_value="todo">a80e6b2bdb5140107364a9954b961928</sys_scope>
         <sys_update_name>sys_app_module_9330372bdb9140107364a9954b9619bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-30 06:07:42</sys_updated_on>
+        <sys_updated_on>2019-11-30 06:11:12</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>
